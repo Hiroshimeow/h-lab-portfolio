@@ -3,3 +3,8 @@ node_modules/
 Thumbs.db
 *.log
 screenshots/
+
+.edge-qa-*/
+qa-edge-temp/
+*.png
+
