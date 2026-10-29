@@ -6,5 +6,7 @@ screenshots/
 
 .edge-qa-*/
 qa-edge-temp/
-*.png
+desktop.png
+mobile.png
+*.qa.png
 
